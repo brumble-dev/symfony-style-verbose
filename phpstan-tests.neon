@@ -1,0 +1,7 @@
+parameters:
+    level: 9
+    paths:
+        - tests
+        - utils/rector/tests
+    universalObjectCratesClasses:
+        - stdClass
